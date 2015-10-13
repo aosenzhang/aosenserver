@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/crossall/!svn/ver/42/4/aosenserver/proxy
+END
+debug.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/crossall/!svn/ver/42/4/aosenserver/proxy/debug.sh
+END
+runserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/crossall/!svn/ver/42/4/aosenserver/proxy/runserver.py
+END
+handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/crossall/!svn/ver/42/4/aosenserver/proxy/handler.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/crossall/!svn/ver/42/4/aosenserver/proxy/settings.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/crossall/!svn/ver/42/4/aosenserver/proxy/utils.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/crossall/!svn/ver/42/4/aosenserver/proxy/models.py
+END

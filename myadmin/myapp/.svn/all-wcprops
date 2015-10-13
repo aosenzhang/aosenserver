@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/crossall/!svn/ver/43/4/aosenserver/myadmin/myapp
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/crossall/!svn/ver/43/4/aosenserver/myadmin/myapp/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/crossall/!svn/ver/43/4/aosenserver/myadmin/myapp/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/crossall/!svn/ver/43/4/aosenserver/myadmin/myapp/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/crossall/!svn/ver/43/4/aosenserver/myadmin/myapp/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/crossall/!svn/ver/43/4/aosenserver/myadmin/myapp/models.py
+END
